@@ -1,5 +1,8 @@
 {
-  "name": "tslint-eslint-rules",
+  "name": "@teppeis/tslint-eslint-rules",
+  "publishConfig": {
+    "access": "public"
+  },
   "version": "5.4.0",
   "description": "Improve your TSLint with the missing ESLint Rules",
   "main": "index.js",
